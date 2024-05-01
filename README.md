@@ -9,4 +9,4 @@ to use this file save it as eliot.pyw and it will encrypt all the files in its c
 to decrypt all the files back to their original form, run the decrypt.py file and type the password.
 you can set your own password by editing the decrypt.py file.
 
-By default the password for decryption is set to "society".
+By default the password for decryption is set to "fsociety".
