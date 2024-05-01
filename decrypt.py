@@ -14,7 +14,7 @@ print(files)
 with open ("thekey.key", "rb") as key:
 	secretkey = key.read()
 
-secret_phrase = ""  #enter the password you want to set for your file here.
+secret_phrase = "fsociety"  #enter the password you want to set for your file here.
 
 user_phrase = input("Enter the phrase to unlock your files: ")
 
